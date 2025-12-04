@@ -4,13 +4,13 @@
 
 Currently based in **Düsseldorf, Germany** 🇩🇪  
 
+
 ### 🔥 About Me
-A little over a year and a half ago I fell completely in love with backend development.  
-Since then, coding has become my daily practice, almost a form of meditation.
 
 I build **clean, modular, production-ready web applications and REST APIs** with Python, mainly using **Flask** and **FastAPI**, backed by **PostgreSQL + SQLAlchemy** and deployed to the cloud.
 
 When I’m not coding, you’ll find me reading about microservices, stoicism, economics, making music, or meditating.
+
 
 ### 🛠 Tech Stack & Tools I Love
 
