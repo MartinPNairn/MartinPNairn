@@ -7,7 +7,7 @@ Currently based in **Düsseldorf, Germany** 🇩🇪
 
 ### 🔥 About Me
 
-I build **clean, modular, production-ready web applications and REST APIs** with Python, mainly using **Flask** and **FastAPI**, backed by **PostgreSQL + SQLAlchemy** and deployed to the cloud.
+I build **clean, modular, production-ready web applications and REST APIs** with Python, mainly using **Flask** and **FastAPI**, backed by **PostgreSQL + SQLAlchemy**.
 
 When I’m not coding, you’ll find me reading about microservices, stoicism, economics, making music, or meditating.
 
