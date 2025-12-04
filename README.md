@@ -24,10 +24,10 @@ When I’m not coding, you’ll find me reading about microservices, stoicism, e
 `Jinja2` `Bootstrap` `HTML/CSS` `WTForms`
 
 **Tooling & Practices**  
-`Git & GitHub` `Postman` `Docker (learning deeply)` `CI/CD concepts` `Clean Architecture` `App Factory + Blueprints`
+`Git & GitHub`  `Docker` `CI/CD concepts`
 
 **Also comfortable with**  
-`pandas` `Selenium` `BeautifulSoup` `Bash` `Linux basics` `Docker`
+`pandas` `Selenium` `BeautifulSoup` `Bash` `Linux basics`
 
 ### 📬 Let’s connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MartinPNairn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/martinpnairn)  
