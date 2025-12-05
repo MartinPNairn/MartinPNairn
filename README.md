@@ -1,16 +1,16 @@
 # Hi there 👋, I'm Martin
 
-*Self-taught Python backend developer | Turning curiosity into production-ready code*
+*Python backend developer | Turning curiosity into production-ready code*  
+Currently based in **Düsseldorf, Germany** 
 
-Currently based in **Düsseldorf, Germany** 🇩🇪  
-
+---
 
 ### 🔥 About Me
 
-I build **clean, modular, production-ready web applications and REST APIs** with Python, mainly using **Flask** and **FastAPI**, backed by **PostgreSQL + SQLAlchemy**.
+I build **clean, modular, production-ready web applications and REST APIs** with Python, mainly using **Flask** and **FastAPI**, backed by **PostgreSQL** and **SQLAlchemy**.  
+When I’m not coding, you’ll find me making music, reading about microservices, watching videos about stoicism/economics, or meditating.
 
-When I’m not coding, you’ll find me reading about microservices, stoicism, economics, making music, or meditating.
-
+---
 
 ### 🛠 Tech Stack & Tools I Love
 
@@ -29,8 +29,10 @@ When I’m not coding, you’ll find me reading about microservices, stoicism, e
 **Also comfortable with**  
 `pandas` `Selenium` `BeautifulSoup` `Bash` `Linux basics`
 
+---
+
 ### 📬 Let’s connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MartinPNairn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/martinpnairn) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MartinPNairn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/martinpnairn)  
 [![Email](https://img.shields.io/badge/Email-martinpnairn@gmail.com-c14438?style=flat&logo=gmail)](mailto:martinpnairn@gmail.com) 
 
-🚀
+🚀🎵💻🧘🏼‍♂️
