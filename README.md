@@ -30,8 +30,7 @@ When I’m not coding, you’ll find me reading about microservices, stoicism, e
 `pandas` `Selenium` `BeautifulSoup` `Bash` `Linux basics`
 
 ### 📬 Let’s connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MartinPNairn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/martinpnairn)  
-[![Email](https://img.shields.io/badge/Email-martinpnairn@gmail.com-c14438?style=flat&logo=gmail)](mailto:martinpnairn@gmail.com)  
-[![GitHub followers](https://img.shields.io/github/followers/MartinPNairn?style=social)](https://github.com/MartinPNairn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MartinPNairn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/martinpnairn)
+[![Email](https://img.shields.io/badge/Email-martinpnairn@gmail.com-c14438?style=flat&logo=gmail)](mailto:martinpnairn@gmail.com)
 
 🚀
