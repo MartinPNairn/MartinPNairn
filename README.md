@@ -1,7 +1,6 @@
-# Hi there 👋, I'm Martin
+# Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> I'm Martin
+*Python Backend Developer | Currently based in **Düsseldorf, Germany***  
 
-*Python backend developer | Turning curiosity into production-ready code*  
-Currently based in **Düsseldorf, Germany** 
 
 ---
 
