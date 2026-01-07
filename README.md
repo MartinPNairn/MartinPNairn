@@ -7,7 +7,7 @@
 ### 🔥 About Me
 
 I build **clean, modular, production-ready web applications and REST APIs** with Python, mainly using **Flask** and **FastAPI**, backed by **PostgreSQL** and **SQLAlchemy**.  
-When I’m not coding, you’ll find me making music, reading about microservices, watching videos about stoicism/economics, or meditating.
+When I’m not developing, you’ll find me making music, reading about stoicism, watching videos about economics, or meditating.
 
 ---
 
