@@ -14,10 +14,10 @@ When I'm not developing, you'll find me making music, reading about psychology, 
 ### 🛠 Tech Stack & Tools I Love
 
 - **Languages & Frameworks**  
-`Python` `FastAPI` `Flask` `SQLAlchemy` `Alembic` `pytest`
+`Python` `FastAPI` `Pydantic` `Flask` `SQLAlchemy` `Alembic` `pytest`
 
 - **Databases & Cloud**  
-`PostgreSQL` `SQLite` `Azure Blob Storage` `Render.com`
+`PostgreSQL` `SQLite` `Azure Blob Storage` `Deployment`
 
 - **Frontend (enough to make it pretty)**  
 `Jinja2` `Bootstrap` `HTML/CSS` `WTForms`
