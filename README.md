@@ -21,7 +21,7 @@ When I'm not developing, you'll find me making music, reading (psychology, physi
 - **Databases & Cloud**  
 `PostgreSQL` `SQLite` `Azure Blob Storage`
 
-- **Infrastructure & Tooling** 
+- **Infrastructure & Tooling**  
 `Docker` `Git & GitHub` `CI/CD` `Bash`
 
 - **Also comfortable with**  
