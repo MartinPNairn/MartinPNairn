@@ -1,13 +1,15 @@
 # Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> I'm Martin
-*Python Backend Developer | Currently based in **Düsseldorf, Germany***  
+*Python Backend Developer | Based in **Düsseldorf, Germany** | EU Citizen*
 
 
 ---
 
 ### 🔥 About Me
 
-I build **clean, modular, production-ready web applications and REST APIs** with Python, mainly using **Flask** and **FastAPI**, backed by **PostgreSQL** and **SQLAlchemy**.  
-When I'm not developing, you'll find me making music, reading about psychology, physics, economics and health & nutrition, diving into sci-fi, or meditating.
+I build **clean, modular web applications and REST APIs** with Python, mainly using **FastAPI** and **Flask**, backed by **PostgreSQL** and **SQLAlchemy**.
+I care about clean architecture, proper database migrations, and writing code that other developers can actually work with.
+
+When I'm not developing, you'll find me making music, reading (psychology, physics, economics, nutrition, sci-fi), or meditating.
 
 ---
 
@@ -17,16 +19,16 @@ When I'm not developing, you'll find me making music, reading about psychology, 
 `Python` `FastAPI` `Pydantic` `Flask` `SQLAlchemy` `Alembic` `pytest`
 
 - **Databases & Cloud**  
-`PostgreSQL` `SQLite` `Azure Blob Storage` `Deployment`
+`PostgreSQL` `SQLite` `Azure Blob Storage`
 
-- **Frontend (enough to make it pretty)**  
-`Jinja2` `Bootstrap` `HTML/CSS` `WTForms`
-
-- **Tooling & Practices**  
-`Git & GitHub`  `Docker` `CI/CD concepts`
+- **Infrastructure & Tooling** 
+`Docker` `Git & GitHub` `CI/CD` `Bash`
 
 - **Also comfortable with**  
 `pandas` `Selenium` `BeautifulSoup` `Bash` `Linux basics`
+
+- **Frontend (enough to make it pretty)**  
+`Jinja2` `Bootstrap` `HTML/CSS` `WTForms`
 
 ---
 
