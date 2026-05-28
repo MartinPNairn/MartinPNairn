@@ -6,10 +6,17 @@
 
 ### 🔥 About Me
 
-I build **clean, modular web applications and REST APIs** with Python, mainly using **FastAPI** and **Flask**, backed by **PostgreSQL** and **SQLAlchemy**.
-I care about clean architecture, proper database migrations, and writing code that other developers can actually work with.
+**Self-taught backend developer in Düsseldorf**, by way of Buenos Aires and Melbourne.
 
-When I'm not developing, you'll find me making music, reading (psychology, physics, economics, nutrition, sci-fi), or meditating.
+I build clean, modular **REST APIs** in Python, mostly **FastAPI** and **SQLAlchemy** on **PostgreSQL**, containerised with **Docker**.
+
+I care about the unglamorous things that keep a codebase alive: clear module boundaries, sane database migrations, and code the next person can read without cursing my name.
+
+---
+
+**Currently** hunting for my first junior backend role.
+
+**When away from the keyboard:** making music, reading (psychology, physics, economics, nutrition, sci-fi), or meditating.
 
 ---
 
